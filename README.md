@@ -21,6 +21,9 @@ given as input. The datasets are fetched from Twitter using its Application Prog
 to predict the sentiments of the user’s text that is processed into this application. The results of the sentiment analysis are visualized using data visualization libraries. The major goal of this thesis is to find the sentiments from the text and classify the sentiments
 with best efficiency, scalability, and accuracy by using selective tools and a pre-trained natural language processing model for the sentimental analysis and obtaining insights from the sentiments by performing different analyses with other data attributes.
 
+# New Approach:
+Combination of Apache Spark, NLP & Amazon Comprehend
+
 # Insights
 The whole idea from the discovered insights shows that the sentiment score majorly varies depending on several factors like other data attributes retweets and favorites count. The correlation analysis gave more clarity on the relationship between the impact of sentiment
 scores with respect to other data attributes on the data. The sentiment scores by hashtags give us more idea about the relevant topics discussed on this data. The trend analysis results how sentiment will be scattered on the analysis irrespective of the sentiment types
