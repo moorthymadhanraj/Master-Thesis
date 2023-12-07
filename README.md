@@ -10,7 +10,7 @@ focuses on achieving efficiency and scalability in this sentimental analysis by 
 selective tools as an approach to achieve the best results on efficiency and scalability with different analyses to find several insights and predictions.
 
 # Keywords:
-Social Media Network, Twitter, Data Streaming, Natural Language Processing (NLP), Apache Spark, Amazon Comprehend, Sentimental Analysis, Cloud Computing, Data Analysis, Data Visualization.
+Social Media Network, Twitter, Data Streaming, Natural Language Processing (NLP), Apache Spark, Amazon Comprehend, Sentimental Analysis, Cloud Computing, Data Analysis, Data Science, Data Visualization. 
 
 # Tools, Packages & Programming Languages:
 Apache Spark, Python, Twitter API, Amazon Comprehend NLP, AWS Cloud, NLTK,Anaconda, Pandas, Jupyter Notebook, Plotly, Seaborn
