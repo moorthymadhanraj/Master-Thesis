@@ -13,7 +13,7 @@ selective tools as an approach to achieve the best results on efficiency and sca
 Social Media Network, Twitter, Data Streaming, Natural Language Processing (NLP), Apache Spark, Amazon Comprehend, Sentimental Analysis, Cloud Computing, Data Analysis, Data Science, Data Visualization. 
 
 # Tools, Packages & Programming Languages:
-Apache Spark, Python, Twitter API, Amazon Comprehend NLP, AWS Cloud, NLTK,Anaconda, Pandas, Jupyter Notebook, Plotly, Seaborn
+Apache Spark, Python, Twitter API, Amazon Comprehend NLP, AWS Cloud, NLTK,Anaconda, Pandas, Jupyter Notebook, Plotly, Seaborn.
 
 # Goal of the thesis
 In this thesis, sentimental analysis is done with the datasets which are transferred on the social media network Twitter. The posts related to all topics from twitter will be taken for sentimental analysis in real-time and performs the analysis with the keyword that is
