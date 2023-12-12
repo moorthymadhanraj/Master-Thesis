@@ -22,7 +22,7 @@ to predict the sentiments of the user’s text that is processed into this appli
 with best efficiency, scalability, and accuracy by using selective tools and a pre-trained natural language processing model for the sentimental analysis and obtaining insights from the sentiments by performing different analyses with other data attributes.
 
 # New Approach:
-Combination of Apache Spark, NLP & Amazon Comprehend
+Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 
 # Insights
 The whole idea from the discovered insights shows that the sentiment score majorly varies depending on several factors like other data attributes retweets and favorites count. The correlation analysis gave more clarity on the relationship between the impact of sentiment
