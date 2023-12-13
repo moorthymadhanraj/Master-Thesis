@@ -30,7 +30,6 @@ Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 * Overall, the opinion of the users varies based on the topic which is discussed on Twitter. This analysis is performed using a cryptocurrency name as a keyword hence the sentiment is highly balanced. The impact on the sentiment scores depends on the topic of the data.
 
 # Future Scope
-These different types of analysis gave a greater number of insights by which we can depict the new possibilities to achieve more efficient results by adding more data attributes from the Twitter data, for example, the “description” attribute can be added which can
-bring more information related to the keyword which is analyzed. Another extensive new approach can be performed by analyzing the authors based on their popularity on Twitter. The more popularity in social media networks gets a greater number of followers for the
-author with more informative data. Therefore, this will give more data to perform the analysis that outcomes extensive results based on different kinds of topics.
-
+* These different types of analysis gave a greater number of insights by which we can depict the new possibilities to achieve more efficient results by adding more data attributes from the Twitter data, for example, the “description” attribute can be added which can
+bring more information related to the keyword which is analyzed. Another extensive new approach can be performed by analyzing the authors based on their popularity on Twitter.
+* The more popularity in social media networks gets a greater number of followers for the author with more informative data. Therefore, this will give more data to perform the analysis that outcomes extensive results based on different kinds of topics.
