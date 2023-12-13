@@ -22,7 +22,11 @@ given as input. The datasets are fetched from Twitter using its Application Prog
 Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 
 # Insights
-* The whole idea from the discovered insights shows that the sentiment score majorly varies depending on several factors like other data attributes retweets and favorites count. The correlation analysis gave more clarity on the relationship between the impact of sentiment scores with respect to other data attributes on the data. The sentiment scores by hashtags give us more idea about the relevant topics discussed on this data. The trend analysis results how sentiment will be scattered on the analysis irrespective of the sentiment types which is based on the topic of the data. The predictive analysis for the sentiment scores forecasts the impact on the sentiment scores based on specific data attributes.
+* The whole idea from the discovered insights shows that the sentiment score majorly varies depending on several factors like other data attributes retweets and favorites count.
+* The correlation analysis gave more clarity on the relationship between the impact of sentiment scores with respect to other data attributes on the data.
+* The sentiment scores by hashtags give us more idea about the relevant topics discussed on this data.
+* The trend analysis results how sentiment will be scattered on the analysis irrespective of the sentiment types which is based on the topic of the data.
+* The predictive analysis for the sentiment scores forecasts the impact on the sentiment scores based on specific data attributes.
 * Overall, the opinion of the users varies based on the topic which is discussed on Twitter. This analysis is performed using a cryptocurrency name as a keyword hence the sentiment is highly balanced. The impact on the sentiment scores depends on the topic of the data.
 
 # Future Scope
