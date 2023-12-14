@@ -21,7 +21,7 @@ given as input. The datasets are fetched from Twitter using its Application Prog
 # New Approach:
 Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 
-# Insights
+# Insights 🏆
 * The whole idea from the discovered insights shows that the sentiment score majorly varies depending on several factors like other data attributes retweets and favorites count.
 * The correlation analysis gave more clarity on the relationship between the impact of sentiment scores with respect to other data attributes on the data.
 * The sentiment scores by hashtags give us more idea about the relevant topics discussed on this data.
@@ -29,7 +29,7 @@ Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 * The predictive analysis for the sentiment scores forecasts the impact on the sentiment scores based on specific data attributes.
 * Overall, the opinion of the users varies based on the topic which is discussed on Twitter. This analysis is performed using a cryptocurrency name as a keyword hence the sentiment is highly balanced. The impact on the sentiment scores depends on the topic of the data.
 
-# Future Scope
+# Future Scope 😊
 * These different types of analysis gave a greater number of insights by which we can depict the new possibilities to achieve more efficient results by adding more data attributes from the Twitter data, for example, the “description” attribute can be added which can
 bring more information related to the keyword which is analyzed. Another extensive new approach can be performed by analyzing the authors based on their popularity on Twitter.
 * The more popularity in social media networks gets a greater number of followers for the author with more informative data. Therefore, this will give more data to perform the analysis that outcomes extensive results based on different kinds of topics.
