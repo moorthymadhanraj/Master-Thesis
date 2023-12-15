@@ -8,7 +8,7 @@ research field in text mining, and it is defined to find the emotions of the aut
 * It is the method of applying natural language processing to identify the subjective information from the text. Finding these sentiments become beneficial for several businesses, organizations, and others. There are several challenges for performing the sentiment analysis and finding the sentiment with high efficiency and scalability in terms of selecting the best approaches, tools, techniques, and libraries. This thesis mainly focuses on achieving efficiency and scalability in this sentimental analysis by using tools and techniques like Python Libraries, Apache Spark, Natural Language Processing, and Amazon Comprehend (pre-trained, machine learning NLP model). This thesis combines selective tools as an approach to achieve the best results on efficiency and scalability with different analyses to find several insights and predictions.
 
 # Keywords:
-Social Media Network, Twitter, Data Streaming, Natural Language Processing (NLP), Apache Spark, Amazon Comprehend, Sentimental Analysis, Cloud Computing, Data Analysis, Data Science, Data Visualization. 
+Social Media Network, Twitter, Data Streaming, Natural Language Processing (NLP), Apache Spark, Amazon Comprehend, Sentimental Analysis, Cloud Computing, Data Analysis, Data Science, Data Visualization.
 
 # Tools, Packages & Programming Languages:
 Apache Spark, Python, Twitter API, Amazon Comprehend NLP, AWS Cloud, NLTK,Anaconda, Pandas, Jupyter Notebook, Plotly, Seaborn.
