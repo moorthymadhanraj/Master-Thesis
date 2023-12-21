@@ -21,6 +21,8 @@ given as input. The datasets are fetched from Twitter using its Application Prog
 # New Approach: 💡
 Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 
+# Data Source : X (Twitter)
+
 # Insights 🏆
 * The whole idea from the discovered insights shows that the sentiment score majorly varies depending on several factors like other data attributes retweets and favorites count.
 * The correlation analysis gave more clarity on the relationship between the impact of sentiment scores with respect to other data attributes on the data.
