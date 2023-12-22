@@ -18,7 +18,7 @@ Apache Spark, Python, Twitter API, Amazon Comprehend NLP, AWS Cloud, NLTK,Anacon
 given as input. The datasets are fetched from Twitter using its Application Programming Interface (API) to take those data into the application for analysis. Pre-processing is performed for analyzing and cleaning with the natural language processing tool and amazon comprehend to perform the sentimental analysis. The sentimental analysis is to predict the sentiments of the user’s text that is processed into this application. 
 * The results of the sentiment analysis are visualized using data visualization libraries. The major goal of this thesis is to find the sentiments from the text and classify the sentiments with best efficiency, scalability, and accuracy by using selective tools and a pre-trained natural language processing model for the sentimental analysis and obtaining insights from the sentiments by performing different analyses with other data attributes.
 
-# New Approach: 💡
+# New Approach 💡
 Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 
 # Data Source : X (Twitter)
