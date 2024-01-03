@@ -18,12 +18,12 @@ Apache Spark, Python, Twitter API, Amazon Comprehend NLP, AWS Cloud, NLTK,Anacon
 given as input. The datasets are fetched from Twitter using its Application Programming Interface (API) to take those data into the application for analysis. Pre-processing is performed for analyzing and cleaning with the natural language processing tool and amazon comprehend to perform the sentimental analysis. The sentimental analysis is to predict the sentiments of the user’s text that is processed into this application. 
 * The results of the sentiment analysis are visualized using data visualization libraries. The major goal of this thesis is to find the sentiments from the text and classify the sentiments with best efficiency, scalability, and accuracy by using selective tools and a pre-trained natural language processing model for the sentimental analysis and obtaining insights from the sentiments by performing different analyses with other data attributes.
 
-# New Approach 💡
+# New Approach💡
 Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 
 # Data Source : X (Twitter)
 
-# Insights 🏆
+# Insights🏆
 * The whole idea from the discovered insights shows that the sentiment score majorly varies depending on several factors like other data attributes retweets and favorites count.
 * The correlation analysis gave more clarity on the relationship between the impact of sentiment scores with respect to other data attributes on the data.
 * The sentiment scores by hashtags give us more idea about the relevant topics discussed on this data.
@@ -31,7 +31,7 @@ Combination of Apache Spark, Natural Language Processing & Amazon Comprehend
 * The predictive analysis for the sentiment scores forecasts the impact on the sentiment scores based on specific data attributes.
 * Overall, the opinion of the users varies based on the topic which is discussed on Twitter. This analysis is performed using a cryptocurrency name as a keyword hence the sentiment is highly balanced. The impact on the sentiment scores depends on the topic of the data.
 
-# Future Scope 😊
+# Future Scope😊
 * These different types of analysis gave a greater number of insights by which we can depict the new possibilities to achieve more efficient results by adding more data attributes from the Twitter data, for example, the “description” attribute can be added which can
 bring more information related to the keyword which is analyzed. Another extensive new approach can be performed by analyzing the authors based on their popularity on Twitter.
 * The more popularity in social media networks gets a greater number of followers for the author with more informative data. Therefore, this will give more data to perform the analysis that outcomes extensive results based on different kinds of topics.
